@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Fillahmg/POTATOMOD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Welcome to POTATOMOD Pages
+POTATOMOD is a mod ,made for lzw and FILLAHMG.
+Use minecraft1.12.2
+Forge2768
+mcreator
+### 介绍
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
