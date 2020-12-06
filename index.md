@@ -1,36 +1,33 @@
-## Welcome to POTATOMOD Pages
-POTATOMOD is a mod ,made for lzw and FILLAHMG.
-Use minecraft1.12.2
-Forge2768
-mcreator
+## 欢迎来到POTATOMOD页面
+###这是什么?
+这是一个由FILLAHMG与lzw制作的minecraft mod。
+旨在针对土豆POTATO这一物品进行拓展
+安装在lzw开的服务器中
+使用了 minecraft1.12.2，
+Forge2768，
+mcreator。
 ### 介绍
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这个mod添加了以土豆为基础的武器，方块，地形，生物。目前版本1.2
+##1.0
+·添加了土豆块
+·添加一个配方
 
-```markdown
-Syntax highlighted code block
+##1.1
+·添加了土豆岩，土豆草，土豆石。添加了土豆林生物群系，土豆木
 
-# Header 1
-## Header 2
-### Header 3
+#1.1.02
+·修复了土豆木的材质问题
 
-- Bulleted
-- List
+#1.2
+·添加土豆林新的生存方式
+·添加地狱土豆林（其实在主世界）
+·添加土豆剑，土豆镐，土豆锤。
+·添加新生物
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+更多请看[github.com/Fillahmg/POTATOMOD]
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fillahmg/POTATOMOD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
