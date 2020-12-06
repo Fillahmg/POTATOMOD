@@ -8,6 +8,7 @@ This mod is open for you download.
 
 已开放下载
 
-website:[github.com/Fillahmg/POTATOMOD](github.com/Fillahmg/POTATOMOD)
+网站:[Fillahmg.github.io](Fillahmg.github.io)
 项目地址:[github.com/Fillahmg/POTATOMOD](github.com/Fillahmg/POTATOMOD)
+
 
