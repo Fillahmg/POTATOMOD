@@ -1,12 +1,12 @@
-## 欢迎来到POTATOMOD页面
-### 这是什么?
+# 欢迎来到POTATOMOD页面
+## 这是什么?
 这是一个由FILLAHMG与lzw制作的minecraft mod。
 旨在针对土豆POTATO这一物品进行拓展
 安装在lzw开的服务器中
 使用了 minecraft1.12.2，
 Forge2768，
 mcreator。
-### 介绍
+# 介绍
 
 这个mod添加了以土豆为基础的武器，方块，地形，生物。目前版本1.2
 ##1.0
@@ -26,8 +26,8 @@ mcreator。
 ·添加新生物
 
 
-更多请看[github.com/Fillahmg/POTATOMOD]
+更多请看[github.com/Fillahmg/POTATOMOD](https://github.com/Fillahmg/POTATOMOD)
 
-### Jekyll Themes
+### FILLAHMG[github.com/fillahmg](http://github.com/fillahmg)
 
 
